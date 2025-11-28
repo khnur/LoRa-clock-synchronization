@@ -13,7 +13,7 @@
 
 **Status:** Accepted (November 2025)
 
-<!-- **Publication Link:** *Coming soon - Will be updated upon IEEE Xplore publication* -->
+**Publication Link:** [https://doi.org/10.1109/TIM.2025.3637968](https://doi.org/10.1109/TIM.2025.3637968)
 
 
 ## 🏛️ Affiliation
