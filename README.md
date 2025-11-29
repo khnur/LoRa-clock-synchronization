@@ -7,13 +7,11 @@
 
 **Title:** One-to-Many Synchronization in High-Drift IoT Devices Using Reinforcement Learning
 
-<!-- **Authors:** Dimitrios Zorbas, Zhansaya Talaptan, Ardak Alipova, Nurzhan Kozhamuratov, Aizhuldyz Nadirkhanova, Damir Assylbek -->
-
 **Venue:** IEEE Transactions on Instrumentation & Measurement (IEEE TIM)
 
 **Status:** Accepted (November 2025)
 
-**Publication Link:** [https://doi.org/10.1109/TIM.2025.3637968](https://doi.org/10.1109/TIM.2025.3637968)
+**Publication Link:** [https://ieeexplore.ieee.org/document/11270951](https://ieeexplore.ieee.org/document/11270951)
 
 
 ## 🏛️ Affiliation
